@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: skyblue;
+    color: black;
+    padding: 30px;
+}
+input{
+    margin-left: 40px;
+}
+h1,li{
+    display: inline;
+}
+form{
+    margin-top: 30px;
+}
+ul{
+    padding-left: 80%;
+}
+li{
+    color: gray;
+    cursor: pointer;
+}
+li:hover{
+    color: white;
+}
